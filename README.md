@@ -1,1 +1,2 @@
-Now,keep studying the python language
+Now,keep studying the python language.
+Keep typing the python code and doing the exercises
