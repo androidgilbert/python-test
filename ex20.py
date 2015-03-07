@@ -15,3 +15,5 @@ current_line=current_line+1
 print_a_line(current_line,current_input)
 current_line=current_line+1
 print_a_line(current_line,current_input)
+
+print "test github"
