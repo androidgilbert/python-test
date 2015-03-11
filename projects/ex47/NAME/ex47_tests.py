@@ -13,3 +13,4 @@ def test_room_paths():
 	center.add_paths({'north':north,'south':south})
 	assert_equal(center.go('north'),north)
 	assert_equal(center.go('south'),south)
+	

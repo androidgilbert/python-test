@@ -18,3 +18,4 @@ print b.add_me_up(20)
 
 print a.number
 print b.number
+print a.number+b.number
